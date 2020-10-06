@@ -1,0 +1,39 @@
+
+.popup
+{
+	background-color:white;
+	color:black;
+	width:100%;
+	height:auto;
+	overflow-x:scroll;
+  display:block;
+}
+#tierInfo
+{
+	overflow-y:scroll;
+	margin:0;
+	padding:0;
+}
+ td
+{
+	width:auto;
+}
+#tierInfoH1
+{
+	margin:0;
+	padding:0;
+}
+.infoP
+{
+	width:auto;
+	margin-left:40%;
+}
+.fa-times
+{
+	color:black;
+}
+#x
+{
+ position: absolute;
+     left:20px;
+}
